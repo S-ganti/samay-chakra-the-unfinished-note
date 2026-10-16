@@ -1,3 +1,15 @@
+# Samay Chakra: The Unfinished Note
+
+[Play in your browser](https://s-ganti.github.io/samay-chakra-the-unfinished-note/) · [Report feedback or a bug](https://github.com/S-ganti/samay-chakra-the-unfinished-note/issues)
+
+An atmospheric musical story prototype across eight prahars. No installation required. Sound starts after you enter the world; use the pause menu to turn it off.
+
+**Controls:** A/D or arrows to walk; Space to double jump; hold W/Up to fly; hold E near a listening circle; J for your listening book; Escape to pause. Mobile touch controls are included.
+
+If reporting a problem, include your device/browser, the place you visited, what you expected, and what happened. Your memory progress is stored only in your browser.
+
+---
+
 # The Unfinished Note — living-world update
 
 Open index.html. Hold E at a listening circle to discover a memory and resonate with the environment. J opens the listening book. Walk with A/D or arrows, Space double jumps, W/Up flies, Escape pauses. The sound starts when you enter the world and can be switched off in the menu. Touch controls include a listening button. In Return, try standing still.
