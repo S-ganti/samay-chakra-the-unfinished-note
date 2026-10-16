@@ -1,0 +1,13 @@
+tmp/
+output/*.zip
+output/*.png
+blender/*.log
+blender/*.txt
+blender/connection.json
+blender/environment-status.md
+blender/verify_connection.py
+blender/*.blend1
+research/user-concept-site.html
+research/user-concept-bundle.js
+__pycache__/
+.DS_Store

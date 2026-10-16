@@ -1,0 +1,30 @@
+[
+  {
+    "file": "rabdentse_ruins_wall_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rabdentse_ruins_wall/rabdentse_ruins_wall_diff_1k.jpg",
+    "md5": "83a1f4618c7d1769792ab88ad112ce49",
+    "bytes": 861112,
+    "license": "CC0 1.0"
+  },
+  {
+    "file": "rabdentse_ruins_wall_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rabdentse_ruins_wall/rabdentse_ruins_wall_nor_gl_1k.jpg",
+    "md5": "0836ef2c8b8fb323f2f887dc4031c990",
+    "bytes": 1283596,
+    "license": "CC0 1.0"
+  },
+  {
+    "file": "rabdentse_ruins_wall_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rabdentse_ruins_wall/rabdentse_ruins_wall_rough_1k.jpg",
+    "md5": "9d9b32a223e79640097dee4cd90effb7",
+    "bytes": 591586,
+    "license": "CC0 1.0"
+  },
+  {
+    "file": "belfast_sunset_puresky_1k.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belfast_sunset_puresky_1k.hdr",
+    "md5": "38890f597727936a44d17a97f7f73354",
+    "bytes": 1190247,
+    "license": "CC0 1.0"
+  }
+]
